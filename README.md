@@ -4,4 +4,4 @@ This repository contains a simple web page for vocabulary story reviewers and co
 
 ## Open the guidelines page
 
-Open `/tmp/workspace/Snap-Digital/vocabulary-story-guidelines/index.html` in a browser.
+From the repository root, open `index.html` in a browser.
